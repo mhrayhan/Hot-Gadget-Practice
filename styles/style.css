@@ -2,3 +2,19 @@
 .container{
     background-color: #fff;
 }
+.card-item{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #ccc8c8;
+}
+/* ==========Bootstrap Customize========== */
+.navbar-toggler {
+    padding: .08rem;
+}
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0.05rem;
+}
+.navbar-toggler-icon {
+    width: 1.2em;
+    height: 1.2em;
+}
