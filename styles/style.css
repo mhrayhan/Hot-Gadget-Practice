@@ -7,6 +7,12 @@
     border-radius: 10px;
     box-shadow: 5px 5px 10px #ccc8c8;
 }
+.phone-section{
+    margin: 50px 0;
+}
+.card-phone, .card-laptop{
+    margin-bottom: 10px;
+}
 /* ==========Bootstrap Customize========== */
 .navbar-toggler {
     padding: .08rem;
