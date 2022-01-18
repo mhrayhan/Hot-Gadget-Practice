@@ -10,9 +10,9 @@
 .phone-section{
     margin: 50px 0;
 }
-.card-phone, .card-laptop{
-    margin-bottom: 10px;
-}
+
+    
+
 /* ==========Bootstrap Customize========== */
 .navbar-toggler {
     padding: .08rem;
@@ -23,4 +23,7 @@
 .navbar-toggler-icon {
     width: 1.2em;
     height: 1.2em;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: #c5c5c5;
 }
